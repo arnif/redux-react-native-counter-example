@@ -16,6 +16,12 @@ open reduxCounterExample.xcodeproj
 run in simulator
 ```
 
+# Troubleshooting
+
+If you encounter any errors please make sure you are using the latest version of watchman
+
+```brew update && brew upgrade watchman```
+
 # Credits
 * [Redux](https://github.com/gaearon/redux)
 * [Redux ES5 example](https://github.com/insin/redux-todomvc-es5)
